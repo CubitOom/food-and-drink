@@ -1,37 +1,43 @@
+[[https://gitlab.com/gitlab-org/gitlab/-/issues/15405][org-mode TOCs are borked in gitlab]]
+
+* Table of Contents                                                     :TOC_1:QUOTE:
+#+BEGIN_QUOTE
+- [[#new-york-bagels][New York Bagels]]
+#+END_QUOTE
+
 * New York Bagels
 #+CAPTION: New York Bagels
 #+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" width="300" /></p>
 /Forked from [[https://www.vice.com/en_us/article/jgegbk/homemade-bagels-recipe][this recipe]]/
 ** Stats
-Yield: 12 bagels
-Prep time: 15 minutes
-Total time: 14 hours (includes overnight proofing)
+- Yield: 12 bagels
+- Prep time: 15 minutes
+- Total time: 14 hours (includes overnight proofing)
 ** Mise en place
-  - 2 square feet of counter space
-  - Stand mixer (aka Planetary mixer) with 5 quart bowl and fitted with dough hook
-  - Convection oven
-  - Stove burner
-  - at least an 11" stock pot or wok to boil bagels
-  - 2 half sheet pans or 1 full sheet pan
-  - Ample space to cold proof bagels on sheet pans overnight in refrigerator
-  - Parchment paper
-  - Plastic wrap
-  - Scale that goes up to 1.2 kg or 2.7 lbs at least
-  - 1 cup measuring cup
-  - 1 Tbsp (plus a ½ Tbsp if only using Imperial)
+- 2 square feet of counter space
+- Stand mixer (aka Planetary mixer) with 5 quart bowl and fitted with dough hook
+- Convection oven
+- Stove burner
+- at least an 11" stock pot or wok to boil bagels
+- 2 half sheet pans or 1 full sheet pan
+- Ample space to cold proof bagels on sheet pans overnight in refrigerator
+- Parchment paper
+- Plastic wrap
+- Scale that goes up to 1.2 kg or 2.7 lbs at least
+- 1 cup measuring cup
+- 1 Tbsp (plus a ½ Tbsp if only using Imperial)
 ** Ingredients
-| Metric  | Imperial  | Item                                  | Note                                                            |
+| Metric  | Imperial | Item                                  | Note                                                            |
 |---------+----------+---------------------------------------+-----------------------------------------------------------------|
 | 145 ml  | 5.1 oz   | Boiling water                         | 100°C (212°F)                                                   |
 | 485 ml  | 17.07 oz | Cold water                            | 17.5°C (64°F)                                                   |
 | 7 grams | ¼ oz     | Active dry yeast                      |                                                                 |
 | 22 ml   | 1 ½ Tbsp | Maple syrup                           | Honey or Agave nectar should also work                          |
-| 1.2 kg  | 2.65 lbs | High gluten flour such as bread flour | all-purpose will work if mixed more                            |
+| 1.2 kg  | 2.65 lbs | High gluten flour such as bread flour | all-purpose will work if mixed more                             |
 |         | 1 Tbsp   | Non-diasatic malt powder              | King Arthur brand                                               |
 |         | 2 Tbsp   | Kosher salt                           | sea salt will work if similar gain size                         |
 |         | 3 Tbsp   | Neutral oil                           | Peanut oil works well                                           |
 |         | 1 cup    | Toppings (if desired)                 | Hazelnuts, sesame seeds, poppy seeds, or everything bagel spice |
-
 ** Directions
 1. If using a stand mixer, use the mixer's bowl; else use a 5 qt mixing bowl to combine the Boiling water & Cold water to make body temperature water. The goal is to have the water in the mixing bowl that you do not notice when your finger goes into the water, that is the perfect temperature for the yeast.
 2. In the mixing bowl with body temperature water, mix together the yeast & maple syrup.
