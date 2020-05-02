@@ -1,6 +1,7 @@
 * New York Bagels
-#+CAPTION: Cluster Diagram
+#+CAPTION: New York Bagels
 #+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" /></p>
+#+ATTR_HTML: :width 300px
 /Forked from [[https://www.vice.com/en_us/article/jgegbk/homemade-bagels-recipe][this recipe]]/
 ** Stats
 Yield: 12 bagels
