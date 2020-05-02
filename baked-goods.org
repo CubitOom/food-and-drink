@@ -1,7 +1,6 @@
 * New York Bagels
 #+CAPTION: New York Bagels
-#+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" /></p>
-#+ATTR_HTML: :width 300px
+#+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" width="300" /></p>
 /Forked from [[https://www.vice.com/en_us/article/jgegbk/homemade-bagels-recipe][this recipe]]/
 ** Stats
 Yield: 12 bagels
