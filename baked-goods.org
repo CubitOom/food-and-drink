@@ -3,8 +3,23 @@
 * Table of Contents                                                     :TOC_1:QUOTE:
 #+BEGIN_QUOTE
 - [[#new-york-bagels][New York Bagels]]
+- [[#double-chocolate-cookies][Double Chocolate Cookies]]
 #+END_QUOTE
 
+* COMMENT Template
+#+CAPTION: Picture
+#+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" width="300" /></p>
+** Stats
+- Yield:
+- Prep time:
+- Total time:
+** Mise en place
+** Ingredients
+| Metric  | Imperial | Item                                  | Note                                                            |
+|---------+----------+---------------------------------------+-----------------------------------------------------------------|
+|         | 2 Tbsp   | Kosher salt                           | sea salt will work if similar gain size                         |
+** Directions
+1.
 * New York Bagels
 #+CAPTION: New York Bagels
 #+HTML: <p align="center"><img src="./assets/baked-goods/new-york-bagels.jpg" width="300" /></p>
@@ -60,3 +75,38 @@
 19. Using a slotted spoon, transfer the bagels to the prepared baking sheets and sprinkle with toppings, if desired.
 20. Bake the bagels until slightly browned, shiny, and firm, about 10 to 12 minutes, rotating the pan once halfway through.
 21. Allow freshly baked bagels to cool
+* Double Chocolate Cookies
+/Original recipe is from my friend Debbie, I plan to make some small modifications./
+** Stats
+- Yield: filled a 2 qt cambro
+- Prep time: 15 mins
+- Total time: 25 mins
+** Mise en place
+- 2 qt mixing bowl
+- 4 qt mixing bowl
+- Measuring teaspoons and cups
+- Convection Oven
+- parchment paper
+- sheet pans
+** Ingredients
+| Metric | Imperial | Item              | Note                                           |
+|--------+----------+-------------------+------------------------------------------------|
+|        | ½ tsp    | Kosher salt       | Sea salt will work if similar gain size        |
+|        | 2 cups   | All-Purpose Flour | Does not need to be bleached                   |
+|        | ½ tsp    | Baking Soda       |                                                |
+|        | ½ cup    | Butter, unsalted  | Melted                                         |
+|        | ¾ cup    | Cocoa Powder      |                                                |
+|        | 2 cups   | Sugar             | Plan to test ¼ cup of brown sugar substitution |
+|        | 1 tsp    | Vanilla extract   |                                                |
+|        | ⅔ cup    | Buttermilk        | Plan to test oat milk substitution             |
+|        | 1 cup    | Chocolate Chips   | Plan to test ½ cup HU chocolate gems           |
+** Directions
+1. Preheat oven to 350°F
+2. Line sheet pan with parchment paper
+3. Combine flour, baking soda, and salt in smaller mixing bowl
+4. In larger mixing bowl, mix melted butter into cocoa powder until smooth
+5. In butter/cocoa mix, whisk in sugar, milk, and vanilla until smooth
+6. Gradually temper the dry ingredients into the larger mixing bowl with all the wet ingredients, and whisk together till there are no clumps
+7. Mix in chocolate chips
+8. Form 1" balls from the dough, each ball should have a 2" clearance
+9. Bake for 10-12 mins
