@@ -1,0 +1,34 @@
+[[https://gitlab.com/gitlab-org/gitlab/-/issues/15405][org-mode TOCs are borked in gitlab]]
+
+* Table of Contents                                                     :TOC_1:QUOTE:
+#+BEGIN_QUOTE
+- [[#yeast-proofing-water-ratio][Yeast Proofing Water Ratio]]
+#+END_QUOTE
+
+* COMMENT Template
+** Description
+** Formula
+*** Legend
+** Application
+** Example
+
+* Yeast Proofing Water Ratio
+** Description
+This formula gives an aproximate ratio of *cold* water (from a refrigerator) to *hot* water (boiled in a kettel), for the porpose of yeilding body tempature water for proofing active dry yeast
+
+** Formula
+
+\begin{equation}
+\frac{m_c}{m_h} = \frac{T_f - T_h}{T_c - T_f}
+\end{equation}
+
+*** Legend
+- $m_c$ is mass of cold water
+- $m_h$ is mass of hot water
+- $T_f$ is desired temperature
+- $T_c$ is temperature of cold water
+- $T_h$ is temperature of hot water.
+** Application
+In order to make body temperature water (98.7°F / 37°C) to proof active dry yeast with, mix 3 parts of cold water from refrigerator (64°F / 17.8°C) and 10 parts of boiling water (212°F / 100°C).
+** Example
+To make 13 oz of body temperature water, mix 3 oz cold water with 10 oz boiling water.
